@@ -5,6 +5,21 @@ This repository contains the coursework, live-coding practice problems, and take
 ## Date: 10-09-2026
 
 **Today's Work:**
+- Implemented Session 4 Class Problems (`BusTicket`, `FareSplitter`, `BusRoute`, `BoardingPenaltyCalculator`, `BusTicketAccount`).
+- Implemented Session 4 Assignment Problems (`FoodOrder`, `DeliverySlot`, `Canteen`, `SurgeFeeCalculator`, `DeliveryAccount`).
+- Structured solutions into `constructors_and_java_keywords/class_problems` and `constructors_and_java_keywords/assigment_problems` packages under feature branch `feature/session_4`.
+
+**Next Session Plan:**
+- Proceed with Session 5 coursework and assignments.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 10-09-2026
+
+**Today's Work:**
 - Implemented Day 3 Live-Coding Class Problems (`SrmStudentAttendance`, `FeeAccountManagement`, `HostelRoomAllocation`, `StudentIdCardSystem`, `FeeHostelMiniSystem`).
 - Implemented Week 3 Assignment Problems (`BookIssueFineSystem`, `EmployeeExtensibility`, `ParkingAllocationSystem`, `LibraryMembershipSystem`, `HrParkingMiniSystem`).
 - Structured solutions into `oop/class_problems` and `oop/assigment_problems` packages under feature branch `feature/session_3`.
