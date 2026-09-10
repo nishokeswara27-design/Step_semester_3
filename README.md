@@ -5,6 +5,21 @@ This repository contains the coursework, live-coding practice problems, and take
 ## Date: 10-09-2026
 
 **Today's Work:**
+- Implemented Day 2 Live-Coding Class Problems (`VowelConsonantCounter`, `CsvStudentRecordParser`, `FileExtensionValidator`, `MaskedPhoneNumberFormatter`, `BankTransactionReferenceValidator`).
+- Implemented Week 2 Assignment Problems (`AtmPinLengthValidator`, `WordReversalEncoder`, `ProductInventoryCsvParser`, `LibraryIsbnValidator`, `StopWordFilterWordFrequency`).
+- Structured solutions into `string/class_problems` and `string/assigment_problems` packages under feature branch `feature/session_2`.
+
+**Next Session Plan:**
+- Proceed with Session 3 coursework and assignments.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 10-09-2026
+
+**Today's Work:**
 - Initialized repository structure adhering to Step Semester 3 Git workflow standards.
 - Created `main`, `develop`, and `feature/session_1` branches.
 - Implemented Day 1 Live-Coding Class Problems (`RockPaperScissorsGame`, `PalindromeChecker`, `BmiCalculator`, `FirstNonRepeatingCharacter`, `ReverseCustomerName`).
